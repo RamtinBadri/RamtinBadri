@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamtinBadri
 - Currently a student studying Computer Engineering
-in Shahid Beheshti University (SBU)
+at Shahid Beheshti University (SBU)
 
 - Feel free to contact me ;)
 <!---
