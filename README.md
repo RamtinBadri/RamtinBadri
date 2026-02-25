@@ -1,5 +1,5 @@
 ## 💫 About Me
-I am a Computer Engineering student at **Shahid Beheshti University**, with a strong interest in **machine learning, data science, advanced programming, data structures, and software design**.  
+I am a Computer Engineering student at **Shahid Beheshti University**, with a strong interest in **machine learning, data science, advanced programming, algorithms, and software design**.  
 Beyond my coursework, I actively explore **data science and machine learning**, focusing on building a solid theoretical foundation alongside practical implementation.
 
 I enjoy writing clean, efficient code and breaking down complex problems into elegant solutions.  
