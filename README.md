@@ -1,9 +1,7 @@
 ## 💫 About Me
-I am a Computer Engineering student at **Shahid Beheshti University**, with a strong interest in **machine learning, data science, advanced programming, algorithms, and software design**.  
-Beyond my coursework, I actively explore **data science and machine learning**, focusing on building a solid theoretical foundation alongside practical implementation.
+I am a Computer Engineering student at **Shahid Beheshti University**, with a strong interest in **machine learning, data science, advanced programming, algorithms, and software design**.
 
-I enjoy writing clean, efficient code and breaking down complex problems into elegant solutions.  
-My academic goal is to grow as a **problem‑oriented engineer** and pursue advanced studies and research in **Artificial Intelligence**.
+I enjoy writing clean, efficient code and breaking down complex problems into elegant solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramtinbadri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramtin.badri01@gmail.com) 
